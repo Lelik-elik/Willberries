@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 19" width="90" height="19">
+	<title>bitcoin</title>
+	<defs>
+		<image  width="90" height="19" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAATCAMAAAAnIeqUAAAAAXNSR0IB2cksfwAAAMNQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////WcU9VgAAAEF0Uk5TgIaaq7S3qZeEjp+CiKSliaCmgZ66wLiZsIezu66nvLmLlJGvv4+dlrGKoYOSnIWNtqyyjJiTlb6bvaitkKq1oqNE61GrAAADTUlEQVR4nIVV22KiUAyMihULiiKxUhSsYivFVRC7eG///6s2F9xd96Gbh3o4hEkyM+cUgKNWbxhN46Flwi3ajw8N6/Zgd7oO/D/MXr/9z5Y78FBj+HTbMxBHt7U/RHx2/4tsjRCD2n2xMf6JiULUQsTHW0KL9iMLpi+D2XfQbf7+bjp3LphBzwtixpbNGa0Wt4wFPbxCm96+fQdtUzv9u51HBl4uG0ljITXk83eqlf5OWfVeAH4ghuvvoGHTe7qjzQ8Z79VK/elKoDNWjzgarRO/mkv+5ohb17LkwbU3G1tfrou2fV/BrSWFwyCvghfvoJ24HyLnT4A0QvS8MhwnApplXbBIyzDLsj19WzcOiAeDXtrHgFbzDad1siwHKCZZGMdlk/JOKt/ZHeJOyekquxIRKV4rEXswjXXnBdYqDtPTrqwVUhUCwIsMp7GDSEU0rdO1BT1ej3WUYEu5+ElM008bnmg0z/My0x3Jy23wDg4hx9srCqZDHTzJcIFsGSBU4wl8ss0iEEkBLohXH9aUcXXhk8gx4YFUWJtmCgNKOZIKtZQnDldgzbk1tmicQCI+skirEHSkR+gfLqbP1XAOKZXuEHtdYiSFuZweo/Ilv1tWjqBkohT2iKUDEzpxFg9XkqzUTsAf4nBVc58Rp3CUUwMFlW6BJERW6nFl56BbQk9l755UBtgJNAE0QIZzRcFnoTf7qIF9LsC9Kv+aq7yIpCt4o3ELUEfpArireVUiSPn81mW4IwjjE0hKhvsxW5nF+SKmMLl5gy3rsV2I24MPX4hNqzpMcaLQhvQpJZbwImKzljsQO9GMHcYbXM6dyjR7cDMpzezFG2gI1Q1xDsVAhpB41itsVnK/KnZLZ6rr2KkhZ2auLsSTCzbl7i2nK7yzbF9yPKON6Uzhg3a3U9M/p8zrYbWeUcLQ5NZz6ZO05Dcyo238dfON6cr+ybRkB8YwYaO3EgscB+UIrExWBxJdLgb2a7y6XZVbsThTddFrYFJWwOG7pURoPJjirJjctNCU5s38wkpfV8GbGmcGDvIdCQny6dEoOtsoGI56etsWX6Om510vcjvX85wtDudTNszGbGOnf/Ui48i5+2UUGfIf6CPPqZEiz3OiekE/CfwC7YR0OufqPAsAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Object" href="#img1" x="0" y="0" />
+</svg>
